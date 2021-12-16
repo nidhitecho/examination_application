@@ -1,0 +1,19 @@
+.LoginCard{
+  width:22rem !important;
+  height: 30rem !important;
+  
+}
+
+.btn_login{
+  display: flex !important;
+  justify-content: center !important;
+  width: 20rem;
+
+}
+
+.btn_forgot_password{
+    display:flex;
+    justify-content:flex-end;
+    margin-top: 1rem;
+}
+
